@@ -7,6 +7,6 @@ int y = 3;
 int z = x * y;
 System.out.println("Multiplication: " + z);
     
-}
+    }
     
 }
