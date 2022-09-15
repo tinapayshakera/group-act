@@ -15,6 +15,7 @@ public class display; {
         num1 = input.nextDouble();
         System.out.print("Enter second number: ");
         num2 = input.nextDouble();
+        
 
         input.close();  
 
