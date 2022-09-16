@@ -1,4 +1,4 @@
-public class Collab {
+public class Calculator {
     public static void main(String args[]) {
         int a = 5;
         int b = 5;
